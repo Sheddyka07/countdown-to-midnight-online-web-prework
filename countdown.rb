@@ -15,6 +15,7 @@ end
   
   while x >= 0 do
     puts "#{x} SECOND(S)!" 
+    sleep 5
     x -= 1 
   end 
   
