@@ -6,7 +6,7 @@ def countdown(x)
   for x = 0..10 do
     puts "#{x} SECOND(S)!" 
     x -= 1 
-  end 
+    end 
   puts "HAPPY NEW YEAR!"
 end   
   
